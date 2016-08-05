@@ -1,6 +1,6 @@
 # _Portfolio Landing Page_
 
-#### _Yusuf Qedan's Portfolio}, {August, 5th, 2016_
+#### _Yusuf Qedan's Portfolio, August, 5th, 2016_
 
 #### By _**Yusuf Qedan**_
 
