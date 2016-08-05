@@ -16,3 +16,20 @@ p{
 #portland{
   color: red;
 }
+#col{
+  background-color: #bed3c7;
+  height: 500px;
+  border-radius: 6px;
+}
+
+.container{
+  background-color: #679a7c;
+}
+body{
+  background-color: #276f45;
+}
+.jumbotron{
+  background-color: #bed3c7;
+  margin-bottom: 0px;
+  margin-top: 10px;
+}
