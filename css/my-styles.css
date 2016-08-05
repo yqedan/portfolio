@@ -1,8 +1,8 @@
-/* may use this later only was used for testing CSS
+/*
 .container{
-  width: 2000px;
-}
+  width: 1500px;
 
+}
 p{
   color: blue;
 }
@@ -11,4 +11,8 @@ p{
   width: 250px;
   height: auto;
   float: left;
+  padding: 20px;
+}
+#portland{
+  color: red;
 }
