@@ -1,12 +1,12 @@
 # _Portfolio Landing Page_
 
-#### _Yusuf Qedan's Portfolio, August, 5th, 2016_
+#### _Yusuf Qedan's Portfolio_
 
 #### By _**Yusuf Qedan**_
 
 ## Description
 
-_This is a web page of my portfolio for all to enjoy._
+_This is my portfolio page detailing my background and notable projects.._
 
 ## Setup/Installation Requirements
 
@@ -29,4 +29,4 @@ _HTML, CSS and bootstrap framework._
 
 *This software is licensed under the MIT license*
 
-Copyright (c) 2016 **_Yusuf Qedan_**
+Copyright (c) 2016-2017 **_Yusuf Qedan_**
