@@ -1,3 +1,59 @@
+*{
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+ul{
+  list-style: none;
+}
+
+body{
+  background-color: #0f2c1b;
+}
+
+a{
+  color: green;
+}
+
+/*any sublist is not bordered or padded*/
+li li, li ul{
+  border-width: 0px;
+  padding: 0px;
+}
+
+li{
+  padding: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 6px;
+  margin: 10px;
+}
+
+ol, ul{
+  padding: 20px;
+}
+
+.container{
+  background-color: #679a7c;
+}
+
+.jumbotron{
+  background-color: #bed3c7;
+  margin-bottom: 0px;
+  margin-top: 10px;
+}
+
+.header-style{
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  padding-top: 20px;
+}
+
+.well{
+  background-image: linear-gradient(to bottom,#276f45 0,#276f45 100%);
+}
+
 #yusuf{
   width: 250px;
   height: auto;
@@ -7,80 +63,7 @@
   border-radius: 50%;
   background-color: #276f45	;
 }
-/*this style causes a nice 15px distance
-between each column when stacked side by side*/
-#left-col{
-  padding-right: 7.5px;
-}
-#right-col{
-  padding-left: 7.5px;
-}
 #title{
   text-align: center;
   color: #FFFFFF;
-}
-/* adjust column width left and right
-padding back to a symmetrical 15px on each side
-when bootstrap stacks the columns*/
-@media screen and (max-width: 991px) {
-  #left-col{
-    padding-right: 15px;
-  }
-  #right-col{
-    padding-left: 15px;
-  }
-}
-*{
-  font-family: "Lucida Console", Monaco, monospace;
-}
-em{
-  color: #276f45;
-}
-.col{
-  background-color: #bed3c7;
-  height: 650px;
-  border-radius: 6px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-.container{
-  background-color: #679a7c;
-}
-body{
-  background-color: #0f2c1b;
-}
-a{
-  color: green;
-}
-.jumbotron{
-  background-color: #bed3c7;
-  margin-bottom: 0px;
-  margin-top: 10px;
-}
-.header-style{
-  text-align: center;
-  padding: 0px;
-  margin: 0px;
-  padding-top: 20px;
-}
-/*any sublist is not bordered or padded*/
-li li, li ul{
-  border-width: 0px;
-  padding: 0px;
-}
-li{
-  padding: 10px;
-  border-style: solid;
-  border-width: 1px;
-  border-color: black;
-  border-radius: 6px;
-  margin: 10px;
-}
-ol, ul{
-  padding: 20px;
-}
-.well{
-  background-color: #276f45;
-  border-radius: 6px;
 }
