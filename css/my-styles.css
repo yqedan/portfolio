@@ -61,6 +61,10 @@ td{
   background-image: linear-gradient(to bottom,#276f45 0,#276f45 100%);
 }
 
+.sub-heading{
+  margin-top: 10px;
+}
+
 #yusuf{
   width: 250px;
   height: auto;
