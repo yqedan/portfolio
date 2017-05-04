@@ -2,6 +2,10 @@
   font-family: "Lucida Console", Monaco, monospace;
 }
 
+td{
+  width: 175px;
+}
+
 ul{
   list-style: none;
 }
@@ -80,4 +84,8 @@ td{
   text-align: center;
   font-size: 40px;
   color: #FFFFFF;
+}
+
+#firstrow-psu td{
+  width: 200px;
 }
